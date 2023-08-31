@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ab59aecf59751327",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3c99d2a519cc4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00bf91180a356c72",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f860efd9fa643ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5090543694741c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "162bd8576f2efb62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e94c2e273fda54db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc535f6f8e78b10a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5086555480957
+  },
+  "right": {
+    "id": "44168fc9502b94b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "470187dad6b4aca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de742ccef9253880",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b2eeddc241e8791",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09f1493013d3c3a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57ff4ac9b3767d64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e64827d95af5345b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "00bf91180a356c72",
+  "lastOpenFiles": [
+    "0. Начало.md",
+    "0. Заметки по обсидиану.md",
+    "Канбан доска.md",
+    "Канбан доска.md",
+    "Без названия.md",
+    "4. получение токена.md",
+    "3. GitHub.md",
+    "4.Получаем коммиты.md",
+    "0. Заметки по работе курсом.md",
+    "Без названия.canvas",
+    "2023-08-31.md",
+    "1. Computer science.md",
+    "Pasted image 20230831054424.png",
+    "Без названия 1.canvas",
+    "3. работа с файлами.md",
+    "2. GIT.md",
+    "3. универсальные .gitignore.md",
+    "2. Protocols.md",
+    "Pasted image 20230831023235.png",
+    "4. публикация проекта.md",
+    "3. http.md",
+    "5. авторизация.md",
+    "Pasted image 20230831022131.png",
+    "Pasted image 20230831021951.png",
+    "2. VS Version control.md"
+  ]
+}
