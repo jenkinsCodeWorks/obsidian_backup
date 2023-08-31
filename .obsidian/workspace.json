@@ -11,9 +11,11 @@
             "id": "00bf91180a356c72",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Канбан доска.md"
+                "file": "Жизнь/0. Начало.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Канбан доска.md",
+                "file": "Жизнь/0. Начало.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Канбан доска.md",
+                "file": "Жизнь/0. Начало.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Канбан доска.md"
+                "file": "Жизнь/0. Начало.md"
               }
             }
           },
@@ -156,30 +158,30 @@
   },
   "active": "00bf91180a356c72",
   "lastOpenFiles": [
-    "0. Начало.md",
-    "0. Заметки по обсидиану.md",
-    "Канбан доска.md",
-    "Канбан доска.md",
+    "Жизнь/0. Заметки по обсидиану.md",
+    "Жизнь/0. Начало.md",
+    "Жизнь/Канбан доска.md",
+    "Жизнь",
     "Без названия.md",
-    "4. получение токена.md",
-    "3. GitHub.md",
-    "4.Получаем коммиты.md",
-    "0. Заметки по работе курсом.md",
+    "Жизнь/4. получение токена.md",
+    "Жизнь/3. GitHub.md",
+    "Жизнь/4.Получаем коммиты.md",
+    "Жизнь/0. Заметки по работе курсом.md",
     "Без названия.canvas",
     "2023-08-31.md",
-    "1. Computer science.md",
-    "Pasted image 20230831054424.png",
+    "Жизнь/1. Computer science.md",
+    "Жизнь/Pasted image 20230831054424.png",
     "Без названия 1.canvas",
-    "3. работа с файлами.md",
-    "2. GIT.md",
-    "3. универсальные .gitignore.md",
-    "2. Protocols.md",
-    "Pasted image 20230831023235.png",
-    "4. публикация проекта.md",
-    "3. http.md",
-    "5. авторизация.md",
-    "Pasted image 20230831022131.png",
-    "Pasted image 20230831021951.png",
+    "Жизнь/3. работа с файлами.md",
+    "Жизнь/2. GIT.md",
+    "Жизнь/3. универсальные .gitignore.md",
+    "Жизнь/2. Protocols.md",
+    "Жизнь/Pasted image 20230831023235.png",
+    "Жизнь/4. публикация проекта.md",
+    "Жизнь/3. http.md",
+    "Жизнь/5. авторизация.md",
+    "Жизнь/Pasted image 20230831022131.png",
+    "Жизнь/Pasted image 20230831021951.png",
     "2. VS Version control.md"
   ]
 }
