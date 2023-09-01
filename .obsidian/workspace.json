@@ -11,9 +11,21 @@
             "id": "00bf91180a356c72",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "kanban",
               "state": {
-                "file": "Жизнь/Pasted image 20230901042235.png"
+                "file": "Жизнь/Канбан доска.md"
+              }
+            }
+          },
+          {
+            "id": "fa0a3064f2c2e9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Жизнь/2.1. Общие команды для командной строки.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -58,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Как",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Жизнь/Pasted image 20230901042235.png",
+                "file": "Жизнь/Канбан доска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Жизнь/Pasted image 20230901042235.png",
+                "file": "Жизнь/Канбан доска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Жизнь/Pasted image 20230901042235.png"
+                "file": "Жизнь/Канбан доска.md"
               }
             }
           },
@@ -166,16 +178,24 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "162bd8576f2efb62",
+  "active": "00bf91180a356c72",
   "lastOpenFiles": [
+    "Параллельные вычисления.md",
+    "Pasted image 20230901045702.png",
+    "2.1. Процессы.md",
+    "Жизнь/Pasted image 20230901044603.png",
+    "Жизнь/2.1. Общие команды для командной строки.md",
+    "Жизнь/2. Операционные системы.md",
+    "Жизнь/Pasted image 20230901043335.png",
+    "Жизнь/Pasted image 20230901044449.png",
+    "Жизнь/Сеть и порты.md",
+    "Жизнь/4. BASH.md",
+    "5. NETSTAT. Сеть",
+    "Жизнь/Pasted image 20230901042235.png",
     "Жизнь/4.Получаем коммиты.md",
-    "Жизнь/3. Общие команды для командной строки.md",
     "4. GREP.md",
     "Жизнь/5. GREP.md",
-    "Жизнь/Pasted image 20230901042235.png",
-    "Жизнь/4. BASH.md",
     "Жизнь/3. Linux.md",
-    "Жизнь/2. Операционные системы.md",
     "Жизнь/Pasted image 20230901042051.png",
     "Жизнь/1. Computer science.md",
     "Жизнь/5. Реализация поиска по ид, скиллам, отображение всех кандидатов.md",
@@ -189,22 +209,15 @@
     "Жизнь/Pasted image 20230901025750.png",
     "Жизнь/4. Заголовки.md",
     "Жизнь/Pasted image 20230901025631.png",
-    "Жизнь/Pasted image 20230901025613.png",
     "Жизнь/3. http.md",
     "Жизнь/4. Методы.md",
-    "Жизнь/Pasted image 20230901025529.png",
     "Жизнь/4. Структура http запроса.md",
-    "Жизнь/Pasted image 20230901025323.png",
     "Жизнь/0. Начало.md",
     "Жизнь/0. Заметки по обсидиану.md",
     "Жизнь/Канбан доска.md",
     "Жизнь",
     "Без названия.md",
-    "Жизнь/4. получение токена.md",
-    "Жизнь/3. GitHub.md",
-    "Жизнь/0. Заметки по работе курсом.md",
     "Без названия.canvas",
-    "Жизнь/Pasted image 20230831054424.png",
     "Без названия 1.canvas"
   ]
 }
