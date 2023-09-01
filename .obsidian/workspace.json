@@ -11,31 +11,9 @@
             "id": "00bf91180a356c72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fa0a3064f2c2e9ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "4. Flask и шаблонизатор Jinja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "025cf4bd780ea8a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Жизнь/5. Реализация поиска по ид, скиллам, отображение всех кандидатов.md",
-                "mode": "source",
-                "source": false
+                "file": "Жизнь/Канбан доска.md"
               }
             }
           }
@@ -105,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Жизнь/Канбан доска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Жизнь/Канбан доска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Жизнь/Канбан доска.md"
+              }
             }
           },
           {
@@ -174,6 +156,7 @@
   },
   "active": "00bf91180a356c72",
   "lastOpenFiles": [
+    "Жизнь/5. Реализация поиска по ид, скиллам, отображение всех кандидатов.md",
     "4. Flask и шаблонизатор Jinja.md",
     "Условия.md",
     "Pasted image 20230901052112.png",
@@ -203,7 +186,6 @@
     "Жизнь/3. Linux.md",
     "Жизнь/Pasted image 20230901042051.png",
     "Жизнь/1. Computer science.md",
-    "Жизнь/5. Реализация поиска по ид, скиллам, отображение всех кандидатов.md",
     "Жизнь/4. Реализация поиска по ид, скиллам.md",
     "Жизнь/2. Фреймворки.md",
     "Жизнь/4. Минимальное приложение на Flask.md",
