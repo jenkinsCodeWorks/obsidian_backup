@@ -11,8 +11,10 @@
             "id": "00bf91180a356c72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Жизнь/Pasted image 20230901042235.png"
+              }
             }
           },
           {
@@ -73,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Жизнь/Pasted image 20230901042235.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Жизнь/Pasted image 20230901042235.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Жизнь/Pasted image 20230901042235.png"
+              }
             }
           },
           {
@@ -161,17 +166,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "00bf91180a356c72",
+  "active": "162bd8576f2efb62",
   "lastOpenFiles": [
     "Жизнь/4.Получаем коммиты.md",
-    "3. Общие команды для командной строки.md",
+    "Жизнь/3. Общие команды для командной строки.md",
     "4. GREP.md",
-    "5. GREP.md",
-    "Pasted image 20230901042235.png",
-    "4. BASH.md",
-    "3. Linux.md",
-    "2. Операционные системы.md",
-    "Pasted image 20230901042051.png",
+    "Жизнь/5. GREP.md",
+    "Жизнь/Pasted image 20230901042235.png",
+    "Жизнь/4. BASH.md",
+    "Жизнь/3. Linux.md",
+    "Жизнь/2. Операционные системы.md",
+    "Жизнь/Pasted image 20230901042051.png",
     "Жизнь/1. Computer science.md",
     "Жизнь/5. Реализация поиска по ид, скиллам, отображение всех кандидатов.md",
     "Жизнь/4. Кодовая база из курса + заметки.md",
