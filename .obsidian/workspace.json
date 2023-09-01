@@ -11,9 +11,9 @@
             "id": "00bf91180a356c72",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "image",
               "state": {
-                "file": "Жизнь/Канбан доска.md"
+                "file": "Жизнь/Pasted image 20230901052112.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Жизнь/Канбан доска.md",
+                "file": "Жизнь/Pasted image 20230901052112.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Жизнь/Канбан доска.md",
+                "file": "Жизнь/Pasted image 20230901052112.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Жизнь/Канбан доска.md"
+                "file": "Жизнь/Pasted image 20230901052112.png"
               }
             }
           },
@@ -154,24 +154,24 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "00bf91180a356c72",
+  "active": "162bd8576f2efb62",
   "lastOpenFiles": [
-    "Жизнь/5. Реализация поиска по ид, скиллам, отображение всех кандидатов.md",
-    "4. Flask и шаблонизатор Jinja.md",
-    "Условия.md",
-    "Pasted image 20230901052112.png",
-    "Циклы.md",
-    "Pasted image 20230901052051.png",
-    "Словари.md",
-    "Pasted image 20230901052023.png",
     "Жизнь/Канбан доска.md",
-    "Pasted image 20230901051814.png",
+    "Жизнь/5. Реализация поиска по ид, скиллам, отображение всех кандидатов.md",
+    "Жизнь/4. Flask и шаблонизатор Jinja.md",
+    "Жизнь/Условия.md",
+    "Жизнь/Pasted image 20230901052112.png",
+    "Жизнь/Циклы.md",
+    "Жизнь/Pasted image 20230901052051.png",
+    "Жизнь/Словари.md",
+    "Жизнь/Pasted image 20230901052023.png",
+    "Жизнь/Pasted image 20230901051814.png",
     "Жизнь/3. Flask.md",
     "Жизнь/4. Моя кодовая база из курса + заметки.md",
     "Жизнь/2.1. Общие команды для командной строки.md",
-    "Параллельные вычисления.md",
-    "Pasted image 20230901045702.png",
-    "2.1. Процессы.md",
+    "Жизнь/Параллельные вычисления.md",
+    "Жизнь/Pasted image 20230901045702.png",
+    "Жизнь/2.1. Процессы.md",
     "Жизнь/Pasted image 20230901044603.png",
     "Жизнь/2. Операционные системы.md",
     "Жизнь/Pasted image 20230901043335.png",
