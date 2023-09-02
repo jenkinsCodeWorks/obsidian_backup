@@ -11,11 +11,9 @@
             "id": "00bf91180a356c72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "3. Обработка ошибок и ошибки.md",
-                "mode": "source",
-                "source": false
+                "file": "Жизнь/Pasted image 20230902042639.png"
               }
             }
           },
@@ -25,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Виды матриц.md",
+                "file": "Жизнь/Виды матриц.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Обработка ошибок и ошибки.md",
+                "file": "Жизнь/Pasted image 20230902042639.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Обработка ошибок и ошибки.md",
+                "file": "Жизнь/Pasted image 20230902042639.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Обработка ошибок и ошибки.md"
+                "file": "Жизнь/Pasted image 20230902042639.png"
               }
             }
           },
@@ -180,18 +178,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "00bf91180a356c72",
+  "active": "162bd8576f2efb62",
   "lastOpenFiles": [
-    "Pasted image 20230902042639.png",
-    "Pasted image 20230902041805.png",
-    "Pasted image 20230902041734.png",
-    "3. Обработка ошибок и ошибки.md",
-    "2. Python.md",
+    "Жизнь/3. Обработка ошибок и ошибки.md",
+    "Жизнь/Pasted image 20230902042639.png",
+    "Жизнь/Pasted image 20230902041805.png",
+    "Жизнь/Pasted image 20230902041734.png",
+    "Жизнь/2. Python.md",
     "Жизнь/1. Computer science.md",
-    "1. Матан.md",
-    "Виды матриц.md",
-    "2. Матрицы.md",
-    "0. Знания.md",
+    "Жизнь/1. Матан.md",
+    "Жизнь/Виды матриц.md",
+    "Жизнь/2. Матрицы.md",
+    "Жизнь/0. Знания.md",
     "Жизнь/0. Начало.md",
     "Жизнь/Канбан доска.md",
     "Жизнь/5. Реализация поиска по ид, скиллам, отображение всех кандидатов.md",
@@ -213,7 +211,6 @@
     "Жизнь/Pasted image 20230901044603.png",
     "Жизнь/2. Операционные системы.md",
     "Жизнь/Pasted image 20230901043335.png",
-    "Жизнь/Pasted image 20230901044449.png",
     "Жизнь/Сеть и порты.md",
     "Жизнь/4. BASH.md",
     "5. NETSTAT. Сеть",
